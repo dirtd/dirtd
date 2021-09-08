@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dirtd
-- 👀 I’m interested in chess
-- 🌱 I’m currently learning chess
-- 💞️ I’m looking to collaborate on chess
-- 📫 How to reach me chess
+- 👀 I’m interested in eliminating the middle
+- 🌱 I’m currently learning how to eliminate the middle class
+- 💞️ I’m looking to collaborate on the elimination of the middle class
+- 📫 How to reach me, eliminate the middle classe
 
 <!---
 dirtd/dirtd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
